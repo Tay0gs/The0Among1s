@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The 0 Among 1s</title>
+    <link>https://taylorwatson.co.uk/</link>
+    <description>The 0 Among 1s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jan 2022 21:51:33 +0000</lastBuildDate>
+    
+    <atom:link href="https://taylorwatson.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mypost</title>
+      <link>https://taylorwatson.co.uk/posts/mypost/</link>
+      <pubDate>Tue, 18 Jan 2022 21:51:33 +0000</pubDate>
+      
+      <guid>https://taylorwatson.co.uk/posts/mypost/</guid>
+      <description>&lt;p&gt;Welcome to the Blog!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post1</title>
+      <link>https://taylorwatson.co.uk/posts/post1/</link>
+      <pubDate>Tue, 18 Jan 2022 20:35:05 +0000</pubDate>
+      
+      <guid>https://taylorwatson.co.uk/posts/post1/</guid>
+      <description>&lt;p&gt;Hi&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
