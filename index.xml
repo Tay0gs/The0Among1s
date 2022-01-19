@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The 0 Among 1s</title>
+    <link>https://taylorwatson.co.uk/</link>
+    <description>The 0 Among 1s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jan 2022 21:13:17 +0000</lastBuildDate>
+    
+    <atom:link href="https://taylorwatson.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://taylorwatson.co.uk/posts/welcome/</link>
+      <pubDate>Wed, 19 Jan 2022 21:13:17 +0000</pubDate>
+      
+      <guid>https://taylorwatson.co.uk/posts/welcome/</guid>
+      <description>&lt;p&gt;This could be a welcome back for some of you or the first hello from me with this blog.
+I initially started this back in 2019 when I started my first apprenticeship but I had a lot to deal with which I&amp;rsquo;ve now been able to get more of a handle on and I&amp;rsquo;m now jumping back onto the wagon.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s the point?&lt;/p&gt;
+&lt;p&gt;This blog will contain primarily my thoughts and a point of view from a fairly new member of the STEM/InfoSec/CyberSecurity industry and hopefully provide you with a new angle to the field. If you have any questions please feel free to contact me at &lt;a href=&#34;mailto:contact@taylorwatson.co.uk&#34;&gt;contact@taylorwatson.co.uk&lt;/a&gt; or just drop me a message on my LinkedIn.&lt;/p&gt;
+&lt;p&gt;I hope that I&amp;rsquo;ll be able to keep this consistent but please bear in mind that I&amp;rsquo;m juggling a full-time degree, working and progressing in a SOC (Security Operations Center), and then also trying to balance my life as a (current) teenager.&lt;/p&gt;
+&lt;p&gt;Please also note that the format of this site may change as time goes on and that&amp;rsquo;s because I&amp;rsquo;m still trying to find out what works and what doesn&amp;rsquo;t.&lt;/p&gt;
+&lt;p&gt;Other than that. Thank you for reading, I hope you find this interesting, and I hope that you&amp;rsquo;ll be able to stick around for the journey which is my career.&lt;/p&gt;
+&lt;p&gt;T.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
